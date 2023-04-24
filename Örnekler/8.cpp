@@ -25,6 +25,6 @@ int main() {
 		cout << "ek geliriniz: " << ucret;
 	}
 	else if (saat <= 10) {
-		cout << "gelir yok git once 10 derse gir";
+		cout << "gelir yok önce 10 derse girmeniz gerek";
 	}
 }
